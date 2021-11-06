@@ -4,6 +4,8 @@ kompetensi SDKD
 *line
 -komunikasi daring ansinkron
 *email
--github
--git
++github
+-membuat akun
+-membuat repository
++git
 
